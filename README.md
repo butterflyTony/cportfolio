@@ -13,38 +13,6 @@
 
 ---
 
-# Demo :movie_camera:
-
-![](./public/image/screen.png)
-
-## View live preview [here](https://abusaid.netlify.app/).
-
----
-
-## Table of Contents :scroll:
-
-- [Sections](#sections-bookmark)
-- [Demo](#demo-movie_camera)
-- [Installation](#installation-arrow_down)
-- [Getting Started](#getting-started-dart)
-- [Usage](#usage-joystick)
-- [Packages Used](#packages-used-package)
-
----
-
-# Sections :bookmark:
-
-- HERO SECTION
-- ABOUT ME
-- EXPERIENCE
-- SKILLS
-- PROJECTS
-- EDUCATION
-- BLOG
-- CONTACTS
-
----
-
 # Installation :arrow_down:
 
 ### You will need to download Git and Node to run this project
